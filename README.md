@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a new software developer and I'm currently getting ready to start a bootcamp with Tech Elevator. I'll be learning full stack and I'm very excited to be here! I'll take any advice/pointers that anyone wants to throw my way and I'd be happy to roll up my sleeves and collaborate on some projects. I definitely learn best while doing. I'm reachable at melisaedmunds@gmail.com. Fun fact: I love old school jazz, the older the better! *preferred pronouns: her/she.  :)
 
 <!--
 **mmelisa03/mmelisa03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
